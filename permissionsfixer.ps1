@@ -33,4 +33,4 @@ function permissionsfixer
         }
     }
 }
-permissionsfixer -filepath (read-host "Enter file path in quotes")
+permissionsfixer -filepath (read-host "Enter file path")
